@@ -56,7 +56,7 @@ html {
     background: linear-gradient(38deg, rgba(220,175,238,1) 0%, rgba(125,125,245,1) 50%, rgba(33,213,250,1) 100%);  */
 
     background: rgb(25,20,20);
-    background: linear-gradient(16deg, rgba(25,20,20,1) 0%, rgba(29,185,84,1) 75%, rgba(30,215,96,1) 100%);
+    background: linear-gradient(16deg, rgba(25,20,20,1) 0%, rgba(29,185,84,1) 75%, rgb(19, 160, 68) 100%);
     /* background: rgba(0, 0, 0, 1); */
 
     display: block;
@@ -102,6 +102,7 @@ html {
 .nav-item {
     padding: 0 10px;
     font-size: 25px;
+    /* color: rgb(83,83,83,1); */
 }
 
 .nav-link {
